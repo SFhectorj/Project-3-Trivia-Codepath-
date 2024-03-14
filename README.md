@@ -4,15 +4,15 @@ Submitted by: Hector Baeza
 
 Trivia is an app that shows a trivia question with 4 answers to choose from.
 
-Time spent: **6** hours spent so far
+Time spent: **13** hours spent
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [X] User can view the current question and 4 different answers
+- [X] User can view the next question after tapping an answer
+- [X] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
@@ -28,11 +28,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://www.loom.com/share/414590f5e8624c20a8f48de30655cd6f?sid=38d2b5f9-a6b0-46b4-9966-032819b6f5e8
+https://www.loom.com/share/7d0e6213368143ff9c7d331ddaa62b24
 
 ## Notes
 
-I'm currently still working on the app. I will resubit before the extension deadline.
+This project was quite difficult. I did find myself overthinking some things. 
+I also had to spend some time to realize and understandthe difference between IBOutlet and IBAction and where they fit with the UI Button choices.
 
 ## License
 
